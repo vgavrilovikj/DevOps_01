@@ -74,4 +74,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: vgavrilovikj/kii-demo-01:latest
+          tags: int3lligentbra1n/kii-repo:latest
